@@ -3,6 +3,8 @@
 
 https://savariapp.netlify.app/ is a clone of popular app uber.com. It is a platform where you can book the cab/ride from any location all over the world.
 
+It Collaborative Project with Five Team Members
+
 Tech Stacks Used:
 - React Js
 - Express Js
